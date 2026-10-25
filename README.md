@@ -29,6 +29,16 @@ This project uses a simple Node.js application, Docker, Jenkins, GitHub, and an 
 
 ---
 
+## Screenshots
+
+### Jenkins Pipeline Success
+![Jenkins Pipeline Success](screenshots/Jenkins-Pipeline.png)
+
+### Application & Health Check
+![Application Health Check](screenshots/webpage&healthcheck)
+
+---
+
 ## 1. Project Overview
 
 The objective of this project is to create a basic Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and Docker.
