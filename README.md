@@ -1,6 +1,6 @@
 # Elevate Labs Task 2: Jenkins CI/CD Pipeline Using Docker
 
-A beginner-friendly DevOps project that demonstrates how to automate application build, testing, Docker image creation, deployment, and health verification using Jenkins.
+A DevOps project that demonstrates how to automate application build, testing, Docker image creation, deployment, and health verification using Jenkins.
 
 This project uses a simple Node.js application, Docker, Jenkins, GitHub, and an Ubuntu server hosted on AWS EC2.
 
