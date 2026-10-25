@@ -35,7 +35,7 @@ This project uses a simple Node.js application, Docker, Jenkins, GitHub, and an 
 ![Jenkins Pipeline Success](screenshots/Jenkins-Pipeline.png)
 
 ### Application & Health Check
-![Application Health Check](screenshots/webpage&healthcheck)
+![Application Health Check](screenshots/webpage&healthcheck.png)
 
 ---
 
